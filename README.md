@@ -31,6 +31,11 @@ I'm a **First-Class Honours** CS & AI student at the **University of Nottingham*
 
 ---
 
+### 🚀 Featured Projects
+* **[🎮 IBM-Sponsored Cybersecurity Game](https://github.com/1alexgeoman/IBM-Security-Learning-Game)** — Backend API engineering using **WatsonX** and **MongoDB**.
+
+---
+
 ### 🏆 Achievements & Impact
 * **Jack Wilson Award (Abcam):** Recognized for innovative AI automation in legal filing.
 * **AI for Efficiency:** Utilized 'IQ bots' at Abcam to slash admin work hours by 70%.
@@ -43,11 +48,26 @@ I'm a **First-Class Honours** CS & AI student at the **University of Nottingham*
 * 📍 Based in **Coventry / Nottingham, UK**
 * 📬 Reach me at: **1alexgeo@gmail.com**
 * 🏀 Always down to talk AI ethics, agile workflows, or basketball stats.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexgeoman/)
 
 <details>
   <summary><b>View My Full Journey</b></summary>
-  <p>
-    I started my journey with a strong foundation in Computer Science, Economics, and Mathematics. Beyond the code, I bring leadership and teamwork experience from my time as a National League U18s Basketball Captain and Social Secretary for the UoN Basketball team, where I secured over £1500 in sponsorships. I'm driven by building technology that delivers tangible results.
-  </p>
+
+  #### 🎓 The Foundation
+  * **JHN School:** Built a strong analytical base with A*AB at A-Level (Computer Science, Economics, Mathematics).
+  * **Leadership:** Led as National League U18s Basketball Captain and managed team sponsorships/events at UoN.
+
+  #### 🏛️ University & Tech Highlights
+  * **University of Nottingham:** On track for **First-Class Honours** in AI and Computer Science.
+  * **Module Highlights:** Engineered secure backend APIs for an **IBM-sponsored** cybersecurity game using **WatsonX**, **MariaDB**, and **TypeScript**.
+
+  #### 📈 Professional Growth
+  * **Abcam (SWE Intern):** Received the **Jack Wilson Award** for using AI 'IQ bots' to slash admin work by 70%.
+  * **Data Annotation:** Specialized in refining algorithms across C, Python, and Java, reducing errors by 15%.
+  * **Entrepreneurship:** Partnered with local businesses to deliver custom sites and AI-powered automation via **Make.com**.
+
+  #### 🏎️ Current Chapter
+  * **Jaguar Land Rover:** Driving efficiency in assisted driving systems by reducing manual testing time by 75% through **Python** and **Gherkin** automation.
+
 </details>

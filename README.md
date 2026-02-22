@@ -23,7 +23,8 @@ I'm a **First-Class Honours** CS & AI student at the **University of Nottingham*
 
 <p align="left">
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/Make.com-010101?style=for-the-badge&logo=make&logoColor=white" alt="Make.com" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>

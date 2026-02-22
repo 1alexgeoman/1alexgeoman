@@ -6,10 +6,9 @@ I'm a **First-Class Honours** CS & AI student at the **University of Nottingham*
 ---
 
 ### 🚀 What I'm Up To
-* 🏎️ **At JLR:** Reducing manual testing time by 75% through Python-driven test automation.
-* 🎮 **Project Work:** Engineering secure backend systems using **IBM WatsonX** and **MongoDB**.
-* 🌐 **Entrepreneurship:** Running **Creality Studio**, building tailored web experiences and AI-powered automation.
-* 🏀 **Off-duty:** Leading on the court as a former National League U18s Captain.
+* 🏎️ **At Jaguar Land Rover:** Currently working as a Software Engineer in Test Automation, utilizing **Python**, **CAPL**, and **Gherkin** to reduce manual testing time by 75% while improving system reliability and coverage.
+* 🌐 **Entrepreneurship:** Partnering with local businesses to streamline operations and scale through custom automation. I implement tailored solutions using **Make.com**, **Notion**, and AI-powered chatbots to automate customer support and manual workflows.
+* 🏀 **Off-duty:** Leading on the court as a BUCS basketball player
 
 ---
 
@@ -34,7 +33,7 @@ I'm a **First-Class Honours** CS & AI student at the **University of Nottingham*
 ### 🏆 Achievements & Impact
 * **Jack Wilson Award (Abcam):** Recognized for innovative AI automation in legal filing.
 * **AI for Efficiency:** Utilized 'IQ bots' at Abcam to slash admin work hours by 70%.
-* **Community:** Former ICT Committee Lead, hosting hackathons to boost local tech literacy.
+* **Community:** Former ICT Committee Lead, hosting mini-hackathons to boost local tech literacy.
 
 ---
 

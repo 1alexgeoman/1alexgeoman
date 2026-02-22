@@ -1,15 +1,15 @@
 # Hi, I'm Alexander Geoman 👋
 ` Computer Science + AI Student | Software Engineer | Digital Architect `
 
-[cite_start]I'm a **First-Class Honours** CS & AI student at the **University of Nottingham** [cite: 27, 28] [cite_start]currently optimizing the future of driving at **Jaguar Land Rover**[cite: 8, 9]. [cite_start]From building secure backend APIs for IBM-sponsored games [cite: 34, 39] [cite_start]to scaling my own web design agency [cite: 41][cite_start], I live at the intersection of complex problem-solving and meaningful user impact[cite: 6].
+I'm a **First-Class Honours** CS & AI student at the **University of Nottingham** currently optimizing the future of driving at **Jaguar Land Rover**. From building secure backend APIs for IBM-sponsored games to scaling my own web design agency, I live at the intersection of complex problem-solving and meaningful user impact.
 
 ---
 
 ### 🚀 What I'm Up To
-* [cite_start]**🏎️ At JLR:** Reducing manual testing time by 75% through Python-driven test automation.
-* [cite_start]**🎮 Project Work:** Engineering secure backend systems using **IBM WatsonX** and **MongoDB**[cite: 34, 39].
-* [cite_start]**🌐 Entrepreneurship:** Running **Creality Studio**, building tailored web experiences and AI-powered automation[cite: 41, 44, 45].
-* [cite_start]**🏀 Off-duty:** Leading on the court as a former National League U18s Captain.
+* 🏎️ **At JLR:** Reducing manual testing time by 75% through Python-driven test automation.
+* 🎮 **Project Work:** Engineering secure backend systems using **IBM WatsonX** and **MongoDB**.
+* 🌐 **Entrepreneurship:** Running **Creality Studio**, building tailored web experiences and AI-powered automation.
+* 🏀 **Off-duty:** Leading on the court as a former National League U18s Captain.
 
 ---
 
@@ -32,24 +32,25 @@
 ---
 
 ### 🏆 Achievements & Impact
-* [cite_start]**Jack Wilson Award (Abcam):** Recognized for innovative AI automation in legal filing[cite: 49].
-* [cite_start]**AI for Efficiency:** Utilized 'IQ bots' at Abcam to slash admin work hours by 70%.
+* **Jack Wilson Award (Abcam):** Recognized for innovative AI automation in legal filing.
+* **AI for Efficiency:** Utilized 'IQ bots' at Abcam to slash admin work hours by 70%.
+* **Community:** Former ICT Committee Lead, hosting hackathons to boost local tech literacy.
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 ![Alexander's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=gruvbox)
 
 ---
 
 ### 🎤 Let's Connect
-* [cite_start]📍 Based in **Coventry / Nottingham, UK** [cite: 3, 35]
-* [cite_start]📬 Reach me at: **1alexgeo@gmail.com** [cite: 2]
+* 📍 Based in **Coventry / Nottingham, UK**
+* 📬 Reach me at: **1alexgeo@gmail.com**
 * 🏀 Always down to talk AI ethics, agile workflows, or basketball stats.
 
 <details>
   <summary><b>View My Full Journey</b></summary>
   <p>
-    [cite_start]Started with A*AB at A-Level [cite: 31] and haven't stopped since. From achieving Silver in the UKMT Maths Challenge [cite: 50] to securing £1500+ in sponsorship for the UoN Basketball team[cite: 52], I bring the same "captain's energy" to every software sprint.
+    I started my journey with a strong foundation in Computer Science, Economics, and Mathematics. Beyond the code, I bring leadership and teamwork experience from my time as a National League U18s Basketball Captain and Social Secretary for the UoN Basketball team, where I secured over £1500 in sponsorships. I'm driven by building technology that delivers tangible results.
   </p>
 </details>

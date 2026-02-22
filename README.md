@@ -38,15 +38,12 @@ I'm a **First-Class Honours** CS & AI student at the **University of Nottingham*
 
 ---
 
-### 📊 GitHub Stats
-![Alexander's Stats](https://github-readme-stats.vercel.app/api?username=1alexgeoman&show_icons=true&theme=gruvbox)
-
----
 
 ### 🎤 Let's Connect
 * 📍 Based in **Coventry / Nottingham, UK**
 * 📬 Reach me at: **1alexgeo@gmail.com**
 * 🏀 Always down to talk AI ethics, agile workflows, or basketball stats.
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexgeoman/)
 
 <details>
   <summary><b>View My Full Journey</b></summary>

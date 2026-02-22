@@ -39,7 +39,7 @@ I'm a **First-Class Honours** CS & AI student at the **University of Nottingham*
 ---
 
 ### 📊 GitHub Stats
-![Alexander's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=gruvbox)
+![Alexander's Stats](https://github-readme-stats.vercel.app/api?username=1alexgeoman&show_icons=true&theme=gruvbox)
 
 ---
 

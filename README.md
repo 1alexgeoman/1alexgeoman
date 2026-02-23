@@ -34,7 +34,7 @@ I'm a **First-Class Honours** CS & AI student at the **University of Nottingham*
 ### 🚀 Featured Projects
 * **[📊 Data Science & Predictive Analytics](https://github.com/1alexgeoman/Predictive-Analytics-Pipeline)** — End-to-end analytical pipeline featuring **data preprocessing, statistical visualization, and Linear Regression modeling** using Scikit-learn.
 * **[📦 Heuristic Search Optimization](https://github.com/1alexgeoman/Heuristic-Optimization-Project)**— Research-focused implementation of **Meta-heuristics (Hill Climbing, Constructive Search)** for the Bin Packing Problem utilizing the HyFlex framework.
-* **[🎮 IBM-Sponsored Cybersecurity Game](https://github.com/1alexgeoman/IBM-Security-Learning-Game)** — Backend API engineering using **WatsonX** and **MongoDB**.
+* **[🎮 IBM-Sponsored Cybersecurity Game](https://github.com/1alexgeoman/IBM-Security-Learning-Game)** — Backend API engineering using **WatsonX** and **MariaDB**.
 * **[🐸 Frogger: Legacy Software Refactor](https://github.com/1alexgeoman/frogger-remake)** — JavaFX modernization utilizing **MVC architecture, SOLID principles**, and **test-driven refactoring**
 *  **[🌐 Web Agency Digital Portfolio](https://github.com/1alexgeoman/Website-Portfolio)** — Orchestrating end-to-end digital solutions for brands, integrating Make.com workflows, AI-driven lead capture, and SEO-optimized e-commerce architecture.
 * **[🧪 Interactive Periodic Table](https://github.com/1alexgeoman/periodic_table)** — A Python/Tkinter desktop application featuring dynamic **JSON data parsing, responsive grid layouts**, and detailed chemical property mapping.

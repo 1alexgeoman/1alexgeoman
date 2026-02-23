@@ -33,6 +33,7 @@ I'm a **First-Class Honours** CS & AI student at the **University of Nottingham*
 
 ### 🚀 Featured Projects
 * **[🎮 IBM-Sponsored Cybersecurity Game](https://github.com/1alexgeoman/IBM-Security-Learning-Game)** — Backend API engineering using **WatsonX** and **MongoDB**.
+* **[🐸 Frogger: Legacy Software Refactor](https://github.com/1alexgeoman/frogger-remake)** — JavaFX modernization utilizing **MVC architecture, SOLID principles**, and **test-driven refactoring**
 
 ---
 
